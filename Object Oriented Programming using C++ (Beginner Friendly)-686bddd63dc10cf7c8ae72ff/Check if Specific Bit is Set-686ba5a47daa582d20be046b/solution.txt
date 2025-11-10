@@ -1,0 +1,1 @@
+[{"code":"#include <iostream>\r\nusing namespace std;\r\n\r\nint main() {\r\n    int num, pos;\r\n    cin >> num >> pos;\r\n\r\n    // Check if the bit at 'pos' is set\r\n    if (num & (1 << pos))\r\n        cout << \"Set\";\r\n    else\r\n        cout << \"Not Set\";\r\n\r\n    return 0;\r\n}\r\n","language":"cpp","time":"2025-11-10T06:13:25.792Z","isCorrect":true}]
