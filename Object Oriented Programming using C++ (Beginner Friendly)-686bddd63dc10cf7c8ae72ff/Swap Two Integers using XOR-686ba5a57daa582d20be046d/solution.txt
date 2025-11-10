@@ -1,0 +1,1 @@
+[{"code":"#include <iostream>\r\nusing namespace std;\r\n\r\nint main() {\r\n    int a, b;\r\n    cin >> a >> b;\r\n\r\n    \r\n    a = a ^ b;\r\n    b = a ^ b;\r\n    a = a ^ b;\r\n\r\n    cout << a << \" \" << b << endl;\r\n\r\n    return 0;\r\n}\r\n","language":"cpp","time":"2025-11-10T06:24:42.141Z","isCorrect":true}]
