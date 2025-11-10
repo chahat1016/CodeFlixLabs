@@ -1,0 +1,1 @@
+[{"code":"#include <iostream>\r\nusing namespace std;\r\nint main(){\r\n    int a;\r\n    float b;\r\n    cin>>a>>b;\r\n\r\n    if(b>a)\r\n    cout<<\"Greater\";\r\n    else if(a>b)\r\n    cout<<\"Less\";\r\n    else\r\n    cout<<\"Equal\";\r\n    \r\n}","language":"cpp","time":"2025-11-10T04:13:15.791Z","isCorrect":false}]
