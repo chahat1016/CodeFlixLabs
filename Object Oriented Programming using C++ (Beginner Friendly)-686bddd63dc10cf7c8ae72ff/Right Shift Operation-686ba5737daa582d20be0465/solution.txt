@@ -1,0 +1,1 @@
+[{"code":"#include <iostream>\r\nusing namespace std;\r\n\r\nint main() {\r\n    int num, shift;\r\n    cin >> num >> shift;\r\n\r\n    cout << (num >> shift) << endl;\r\n\r\n    return 0;\r\n}\r\n","language":"cpp","time":"2025-11-10T06:06:50.383Z","isCorrect":true}]
