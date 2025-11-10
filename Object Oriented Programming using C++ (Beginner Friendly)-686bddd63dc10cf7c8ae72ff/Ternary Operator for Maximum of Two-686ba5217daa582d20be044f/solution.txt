@@ -1,0 +1,1 @@
+[{"code":"#include <iostream>\r\nusing namespace std;\r\nint main(){\r\n    int a,b;\r\n    cin>>a>>b;\r\n    if(a>b)\r\n    cout <<a;\r\n    else if (a<b)\r\n    cout<<b;\r\n    else \r\n    cout<<a;\r\n}","language":"cpp","time":"2025-11-10T05:06:39.942Z","isCorrect":true}]
