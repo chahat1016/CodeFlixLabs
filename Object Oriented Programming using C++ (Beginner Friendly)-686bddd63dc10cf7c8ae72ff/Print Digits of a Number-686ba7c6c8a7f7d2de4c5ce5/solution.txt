@@ -1,0 +1,1 @@
+[{"code":"#include <iostream>\r\nusing namespace std;\r\nint main(){\r\n    string n;\r\n    cin>>n;\r\n\r\n    for (char digit : n) {\r\n    cout << digit << endl;  // print each digit on a new line\r\n    }\r\nreturn 0;\r\n}","language":"cpp","time":"2025-11-12T07:21:55.433Z","isCorrect":true}]
